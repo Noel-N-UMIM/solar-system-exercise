@@ -1,0 +1,1 @@
+# Solar System ExerciseMade by {Noel}This is a short exercise about the solar system and using git.
